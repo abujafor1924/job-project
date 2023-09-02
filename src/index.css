@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-img {
+  background: url("https://i.ibb.co/DMcHdMg/dark-photography-grayscale-lions-black-background-1900x1200-abstract-photography-hd-art-wallpaper-pr.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
